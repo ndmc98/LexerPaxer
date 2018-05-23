@@ -1,4 +1,4 @@
-# Ejercicio Lexer-Paser
+# Ejercicio Lexer-Parser
 Ejercicio Lexer &amp; Parser
 
 Desarrolladores:
